@@ -36,6 +36,6 @@ E se quiser conhecer melhor essas tecnologias, temos [cursos gratuitos](https://
 ## RocketStar
 Para apresentar o resultado dos nossos alunos e colocar à prova todo o conhecimento que eles absorveram durante os bootcamps, nós premiamos as nossas estrelas.
 
-Então em cada turma os alunos tem a chance de mostrar que realmente dominaram as ferramentas e agora são capazes de contruir apps que vão fazer a diferença no mundo e na carreira de cada um deles.
+Então em cada turma os alunos têm a chance de mostrar que realmente dominaram as ferramentas e agora são capazes de construir apps que vão fazer a diferença no mundo e na carreira de cada um deles.
 
 - [Confira o regulamento e veja como participar](rocketstar.md)
