@@ -1,4 +1,4 @@
-# Sobre o Rocketstar
+# Sobre o RocketStar
 
 - [Como participar](#como-participar)
 - [Votação](#votação)
@@ -8,40 +8,38 @@
 
 Uma competição entre os alunos dos bootcamps da Rocketseat que tem como objetivo não só acelerar ainda mais a evolução dos devs fazendo com que apliquem o conhecimento adquirido, mas também reconhecer aqueles que mais se destacaram.
 
-O participante deve desenvolver uma aplicação com o objetivo de mostrar que domina o conteúdo do treinamento que ele participa (caso participe de mais de um, escolha apenas um para participar).
-
-Não existem regras ou restrições enquanto a aplicação; não precisa ser necessariamente algo desenvolvido exclusivamente para esta competição.
+Para isso o aluno deve desenvolver uma aplicação com o objetivo de mostrar que domina o conteúdo do bootcamp que ele participou (pode ser algo que ele desenvolveu em paralelo durante o bootcamp).
 
 ## Como participar
-- Desenvolva uma aplicação com o que você aprendeu;
-- Suba a aplicação no github;
+- Desenvolva uma aplicação com o que você aprendeu (uma API em NodeJS, um app mobile em React Native, ou um web app em ReactJS, dependendo do bootcamp que você participou);
+- Crie um repositório no Github e coloque o seu código lá;
 - Adicione a tag `rocketseat` no repositório;
 - O repositório deve ter um `readme.md` na raiz explicando o projeto (capriche, imagens e gifs ajudam muito);
-- [Opcional] Disponibilize uma demo;
-- Grave um vídeo falando da sua experiência com o treinamento e apresentando a sua aplicação (não esqueça de se aprentar e dizer qual o bootcamp que você participa);
-- Envie um e-mail para star@rocketseat.com.br com o assunto `Rocketstar - {Seu Nome}`, anexe o vídeo e o link do respositório (o vídeo pode ser hospedado em outro local);
-- Participe da votação e aguarde o resultado :rocket:
+- [Opcional] Disponibilize uma demo da sua aplicação;
+- Grave um vídeo falando da sua experiência com o bootcamp e apresentando a aplicação que você criou (lembre de se apresentar e dizer de qual bootcamp você participou);
+- Envie o vídeo para o email star@rocketseat.com.br com o assunto `RocketStar - {Seu Nome}`, incluindo o link do respositório (você também pode subir o vídeo para o Youtube ou Dropbox e enviar apenas o link);
+- Chame a sua torcida e aguarde o resultado :rocket:
 
-:warning: O não cumprimento de qualquer um dos itens listados acima desclassifica o participante automaticamente.
+:warning: O não cumprimento de qualquer um dos itens listados acima pode desclassificar o participante.
 
 ## Votação
-A votação é aberta e ocorre por meio [deste link](https://rocketseat.com.br/rocketstar), onde será listado todos os vídeos e projetos dos participantes.
+Para que toda a comunidade possa participar e conhecer de perto o trabalho dos alunos, os vídeos e projetos dos participantes ficarão disponíveis [nessa página](https://rocketseat.com.br/rocketstar), onde todos poderão inclusive dar o seu voto através das stars no Github.
 
-Os votos são contabilizados por meio das stars do repositório no github; sendo o repositório com mais stars o melhor colocado.
+Esses votos serão simbólicos, uma vez que os projetos serão avaliados e classificados pelos nossos intrutores, mas serão muito importantes para mostrar a opinião da comunidade quanto à qualidade desses projetos.
 
-Por conta disso, é necessário que o projeto tenha sido criado a partir do dia 07/06/2018.
+E como a opinião da nossa comunidade é muito importante pra gente, nada mais justo do que permitir que ela também possa se expressar nessa competição.
 
 ## Avaliação
-A avaliação é feita pela equipe da Rocketseat, que vai considerar o quanto o aluno conseguiu aprender e aplicar os conhecimentos passados no bootcamp, ou seja, o quanto ele domina a ferramenta.
+A avaliação será feita pela equipe de instrutores da Rocketseat, que vai considerar principalmente o quanto o aluno conseguiu aprender, assimilar os conceitos e aplicar os conhecimentos do bootcamp. Ou seja, o aluno precisa mostrar o quanto ele domina a ferramenta.
 
-Os votos influênciam na avaliação, mas não necessariamente o mais votado é o vencedor.
+Lembrando que as stars no Github podem influenciar na avaliação, mas não necessariamente o mais votado será o vencedor. Essa decisão cabe exclusivamente ao time de instrutores que irá avaliar os projetos.
 
 ## Prêmio
-O Rocketstar precisa ser reconhecido!
+O RocketStar precisa ser reconhecido!
 
-Para que ele consiga ser ainda mais produtivo e codar ainda mais, o vencedor da competição leva pra casa um monitor 21" UltraWide, é só mandar o endereço :truck:
+Então para que ele possa ser ainda mais produtivo e tenha muito mais motivação pra codar, o vencedor da competição levará para casa um monitor 24" UltraWide :scream:
 
-![Monitor 21" UltraWide](assets/monitor.jpg)
+![Monitor 24" UltraWide](assets/monitor.jpg)
 
 ## Cronograma
 - 07/06: é dada a largada! Começamos a aceitar as entregas aqui;
