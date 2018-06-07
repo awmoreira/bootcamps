@@ -22,7 +22,7 @@ Essa é uma das maiores vantagens dessa stack. Além de você aproveitar todo o 
 
 Você não vai precisar aprender três ou mais linguagens e ainda vai utilizar tecnologias muito parecidas. Tudo isso vai fazer com que você evolua muito mais rápido!
 
-Seguindo essa linha de raciocínio, criamos nossos três treinamentos, buscando ensinar de forma prática, rápida e direta tudo que você precisa saber para dominar essa stack e se tornar um desenvolvedor completo:
+Seguindo essa linha de raciocínio, criamos nossos três treinamentos, buscando ensinar de forma prática, rápida e direta tudo o que você precisa saber para dominar essa stack e se tornar um desenvolvedor completo:
 
 - [GoNative](https://rocketseat.com.br/gonative)
 - [GoReact](https://rocketseat.com.br/goreact)
@@ -33,7 +33,7 @@ Lembrando que você pode entrar em contato com a gente pelo e-mail [oi@rocketsea
 E se quiser conhecer melhor essas tecnologias, temos [cursos gratuitos](https://rocketseat.com.br/starter) e muito conteúdo lá no [youtube](https://youtube.com/rocketseat).
 
 ## Rocketstar
-Queremos ver o resultado que cada um dos nossos alunos estão conseguindo alcançar com nossos treinamentos; queremos testar se eles realmente estão dominando as tecnologias e colocar eles a prova.
+Queremos ver o resultado que cada um dos nossos alunos estão conseguindo alcançar com nossos treinamentos; queremos testar se eles realmente estão dominando as tecnologias e colocá-los a prova.
 
 Então por que não criar uma competição onde o mundo pode ver as aplicações incríveis que nossas estrelas estão construindo, votar e ainda ajudar esses devs a levarem um prêmio para casa?!
 
