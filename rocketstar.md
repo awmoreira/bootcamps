@@ -1,4 +1,11 @@
 # Sobre o Rocketstar
+
+- [Como participar](#como-participar)
+- [Votação](#votação)
+- [Avaliação](#avaliação)
+- [Prêmio](#prêmio)
+- [Cronograma](#cronograma)
+
 Uma competição entre os alunos dos bootcamps da Rocketseat que tem como objetivo não só acelerar ainda mais a evolução dos devs fazendo com que apliquem o conhecimento adquirido, mas também reconhecer aqueles que mais se destacaram.
 
 O participante deve desenvolver uma aplicação com o objetivo de mostrar que domina o conteúdo do treinamento que ele participa (caso participe de mais de um, escolha apenas um para participar).
