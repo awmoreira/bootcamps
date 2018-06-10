@@ -37,9 +37,9 @@ Lembrando que as stars no Github podem influenciar na avaliação, mas não nece
 ## Prêmio
 O RocketStar precisa ser reconhecido!
 
-Então para que ele possa ser ainda mais produtivo e tenha muito mais motivação pra codar, o vencedor da competição levará para casa um monitor 24" UltraWide :scream:
+Então para que ele possa ser ainda mais produtivo e tenha muito mais motivação pra codar, o vencedor da competição levará para casa um monitor 25" UltraWide :scream:
 
-![Monitor 24" UltraWide](assets/monitor.jpg)
+![Monitor 25" UltraWide](assets/monitor.jpg)
 
 ## Cronograma
 - 07/06: é dada a largada! Começamos a aceitar as entregas aqui;
