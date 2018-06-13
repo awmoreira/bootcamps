@@ -8,14 +8,13 @@
 
 Uma competição entre os alunos dos bootcamps da Rocketseat que tem como objetivo não só acelerar ainda mais a evolução dos devs fazendo com que apliquem o conhecimento adquirido, mas também reconhecer aqueles que mais se destacaram.
 
-Para isso o aluno deve desenvolver uma aplicação com o objetivo de mostrar que domina o conteúdo do bootcamp que ele participou (pode ser algo que ele desenvolveu em paralelo durante o bootcamp).
+Para isso o aluno deve apresentar uma aplicação desenvolvida, com o objetivo de mostrar que domina o conteúdo do bootcamp que ele participou (pode ser algo que ele desenvolveu em paralelo durante o bootcamp).
 
 ## Como participar
-- Desenvolva uma aplicação com o que você aprendeu (uma API em NodeJS, um app mobile em React Native, ou um web app em ReactJS, dependendo do bootcamp que você participou);
-- Crie um repositório no Github e coloque o seu código lá;
+- Selecione uma aplicação desenvolvida com o que você aprendeu (uma API em NodeJS, um app mobile em React Native, ou um web app em ReactJS, dependendo do bootcamp que você participou);
+- Crie um repositório no Github (não precisa subir o código);
 - Adicione a tag `rocketseat` no repositório;
 - O repositório deve ter um `readme.md` na raiz explicando o projeto (capriche, imagens e gifs ajudam muito);
-- [Opcional] Disponibilize uma demo da sua aplicação;
 - Grave um vídeo falando da sua experiência com o bootcamp e apresentando a aplicação que você criou (lembre de se apresentar e dizer de qual bootcamp você participou);
 - Envie o vídeo para o email star@rocketseat.com.br com o assunto `RocketStar - {Seu Nome}`, incluindo o link do respositório (você também pode subir o vídeo para o Youtube ou Dropbox e enviar apenas o link);
 - Chame a sua torcida e aguarde o resultado :rocket:
