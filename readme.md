@@ -1,18 +1,19 @@
 # Sobre os bootscamps da Rocketseat
+
 > Treinamentos completos do zero ao profissional com metodologia baseada na prática de desafios!
-> 
-[![Rocketseat](assets/rocketseat.png)](https://rocketseat.com.br)
+>
+> [![Rocketseat](assets/rocketseat.png)](https://rocketseat.com.br)
 
 Não, não é aqui que você vai encontrar uma lista enorme de cursos.
 
-Nós nos importamos *(e muito)* com o seu tempo. E para que você não precise gastar ele decidindo quais linguagens e tecnologias você vai escolher dentre uma lista quase infinita de possibilidades, nós fizemos isso para você:
+Nós nos importamos _(e muito)_ com o seu tempo. E para que você não precise gastar ele decidindo quais linguagens e tecnologias você vai escolher dentre uma lista quase infinita de possibilidades, nós fizemos isso para você:
 
 [![ReactJS - NodeJS - React Native](assets/react-node-rn.png)](https://rocketseat.com.br/bootcamp)
 
 Para chegar nessa stack, não nos baseamos apenas em critérios como produtividade, facilidade de evoluir e manter o código, curva de aprendizado e performance. Mas também em perguntas como:
 
-- Onde essa tecnologia se aplica? 
-- Qual o tamanho da comunidade? 
+- Onde essa tecnologia se aplica?
+- Qual o tamanho da comunidade?
 - Quem são as pessoas e empresas por trás?
 - Quem utiliza essas tecnolgias em produção?
 - Qual a perspectiva de futuro?
@@ -33,7 +34,8 @@ Lembrando que você pode entrar em contato com a gente pelo e-mail [oi@rocketsea
 
 E se quiser conhecer melhor essas tecnologias, temos [cursos gratuitos](https://rocketseat.com.br/starter) e muito conteúdo lá no [youtube](https://youtube.com/rocketseat).
 
-## RocketStar
+## Rocket Star
+
 Para apresentar o resultado dos nossos alunos e colocar à prova todo o conhecimento que eles absorveram durante os bootcamps, nós premiamos as nossas estrelas.
 
 Então em cada turma os alunos têm a chance de mostrar que realmente dominaram as ferramentas e agora são capazes de construir apps que vão fazer a diferença no mundo e na carreira de cada um deles.
