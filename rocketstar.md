@@ -14,7 +14,7 @@ Para isso o aluno deve apresentar uma aplicação desenvolvida, com o objetivo d
 
 - Selecione uma aplicação desenvolvida com o que você aprendeu (uma API em NodeJS, um app mobile em React Native, ou um web app em ReactJS, dependendo do treinamento que você participou);
 - Grave um vídeo falando da sua experiência com o bootcamp e apresentando a aplicação que você criou (lembre de se apresentar e dizer de qual treinamento você participou);
-- Envie o vídeo para o email star@rocketseat.com.br com o assunto `Rocket Star - {Seu Nome}`, incluindo o link do respositório (você também pode subir o vídeo para o Youtube ou Dropbox e enviar apenas o link);
+- Envie o vídeo para o email star@rocketseat.com.br com o assunto `Rocket Star - {Seu Nome}`;
 - Chame a sua torcida e aguarde o resultado :rocket:
 
 :warning: O não cumprimento de qualquer um dos itens listados acima pode desclassificar o participante.
